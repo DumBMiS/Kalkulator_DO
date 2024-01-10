@@ -14,5 +14,25 @@ namespace Kalkulator_DO
         {
             InitializeComponent();
         }
+
+        private void Operation_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void number_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Comma_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Equals_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
